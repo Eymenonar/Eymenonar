@@ -11,6 +11,12 @@
         <strong>spring-framework</strong>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://github.com/apache/shenyu/pull/7377">
+        <img src="assets/contributions/apache-shenyu.svg" width="48" height="64" alt="Apache ShenYu logo"><br>
+        <strong>shenyu</strong>
+      </a>
+    </td>
   </tr>
 </table>
 </div>

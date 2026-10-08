@@ -17,6 +17,12 @@
         <strong>shenyu</strong>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://github.com/pmd/pmd/pull/7050">
+        <img src="assets/contributions/pmd.png" width="64" height="64" alt="PMD logo"><br>
+        <strong>pmd</strong>
+      </a>
+    </td>
   </tr>
 </table>
 </div>
